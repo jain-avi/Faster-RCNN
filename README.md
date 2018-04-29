@@ -10,3 +10,10 @@ Authors : Avineil Jain, Sravan Patchala
 # Note
 The model has only been trained for 15% of its training time due to constraints of time and computation. However, since it produces decent results, we decided to stop training and add it to the repo. The main purpose of the project was NOT to beat some benchmarks, but to learn and understand object detection and implement a state-of-the-art technique for it! :)
 
+# VOCdevkit 
+The folder which should contain the data has not been added because of space constraints. However, the folder is only needed to train the model. 
+To add it, download from - 
+http://host.robots.ox.ac.uk/pascal/VOC/voc2007/index.html
+
+
+
