@@ -1,5 +1,5 @@
 # Faster-RCNN
-Project for EE769 Machine Learning
+Project for EE769 Machine Learning\
 Authors : Avineil Jain, Sravan Patchala 
 
 # Code Structure 
@@ -12,7 +12,7 @@ The model has only been trained for 15% of its training time due to constraints 
 
 # VOCdevkit 
 The folder which should contain the data has not been added because of space constraints. However, the folder is only needed to train the model. 
-To add it, download from - 
+To add it, download from -\
 http://host.robots.ox.ac.uk/pascal/VOC/voc2007/index.html
 
 
