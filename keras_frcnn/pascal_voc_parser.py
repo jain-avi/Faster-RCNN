@@ -1,3 +1,7 @@
+"""
+Parser file directly used, extremely helpful file
+"""
+
 import os
 import cv2
 import xml.etree.ElementTree as ET

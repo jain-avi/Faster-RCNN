@@ -1,5 +1,6 @@
 """
 This file has been used from the repository https://github.com/yhenon/keras-frcnn because it contains very basic functions
+Although to be fair, we don't use this function :P
 """
 import cv2
 import numpy as np

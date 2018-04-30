@@ -1,3 +1,7 @@
+"""
+Layer file directly used
+"""
+
 from keras.engine.topology import Layer
 import keras.backend as K
 

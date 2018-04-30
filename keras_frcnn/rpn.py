@@ -1,7 +1,11 @@
 """
 Author : Avineil Jain 
 This file contains all the code relevant to the RPN
-Some of the functions are inspired from https://github.com/yhenon/keras-frcnn because of the difficulty and time constraints 
+Some of the functions are inspired from https://github.com/yhenon/keras-frcnn because of the difficulty and time constraints - 
+	rpn_to_roi()
+	calc_rpn_ground_truth()
+	generate_train_data()
+The functions which are inspired from the code are used and edited as per requirements 
 """
 
 from keras.layers import Input, Convolution2D

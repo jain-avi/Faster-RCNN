@@ -1,7 +1,9 @@
 """
 Author : Avineil Jain 
 This file contains the code for the classifier module 
-Some of the functions are inspired from https://github.com/yhenon/keras-frcnn because of the difficulty and time constraints 
+Some of the functions are inspired from https://github.com/yhenon/keras-frcnn because of the difficulty and time constraints-
+    calc_classifier_ground_truth()
+The functions which are inspired from the code are used and edited as per requirements 
 """
 
 from keras.layers import Flatten, Dense, TimeDistributed, AveragePooling2D
